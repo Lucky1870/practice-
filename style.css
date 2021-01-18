@@ -1,0 +1,21 @@
+
+ #heading{
+             text-align:center;
+             color:#8845f4;
+             filter:drop-shadow(0.1rem 0 0.1rem);
+             voice-stress:moderate;
+             } 
+       #footer{
+              background:hsl(100 100% 10% );
+              border-radius:10px;
+              font-size:25px;
+              color:yellow 
+              }
+       #paragraph{
+              font-size:20px;
+              font-family:sans-serif;
+              opacity:0.75;
+              filter:brightness(300%);
+              filter:blur(400%);
+              }
+            
